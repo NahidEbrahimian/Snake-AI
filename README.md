@@ -1,5 +1,6 @@
-# SnakeAI
+# Snake AI
 
+**Rule based snake**
 
 https://user-images.githubusercontent.com/82975802/132351422-042cf725-3163-427f-9753-07fc3b86b2bc.mp4
 
@@ -24,7 +25,7 @@ dataset --> file_name.csv
 
 ## Test
 
-Run following command to test trained model:
+Run the following command to test trained model:
 
 model --> path of trained model
 
